@@ -20,7 +20,8 @@
 ;;;   (length list-of-nums) == n
 ;;;   (list-ref list-of-nums i) = i+1
 ;;;     for all i, 0 <= i < n.
-(define one-to
+
+(define first-n-numbers
   (lambda (n)
     (cdr (iota (+ n 1)))))
 
