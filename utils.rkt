@@ -1,7 +1,7 @@
 #lang racket
 (require gigls/unsafe)
 ;;; File:
-;;;   utils.rkt
+;;;   Repository-for-CSC-151/utils.rkt
 ;;; Author:
 ;;;   Amy Zhou
 ;;; Summary:
